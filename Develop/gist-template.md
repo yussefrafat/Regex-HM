@@ -129,4 +129,6 @@ For Example: <([A-Z][0-9]*)\b[^>]*>.*?</\1> This regex contains only one pair of
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+A Student of the University of Carleton Coding Bootcamp Yussef Rafat 
+- GitHub : https://github.com/yussefrafat
+
